@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sakshitripathii.github.io/al-folio/sitemap.xml
+Sitemap: https://sakshitripathii.github.io/sitemap.xml
